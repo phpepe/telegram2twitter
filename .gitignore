@@ -1,0 +1,8 @@
+__pycache__
+venv
+.env
+.idea
+LAST_ID.txt
+logs/app.log
+session_id.session
+test.py
